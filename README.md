@@ -1,3 +1,5 @@
+Proyecto académico del Grado en Ciencia de Datos e Inteligencia Artificial.
+
 # 📊 Análisis Estadístico de Datos con R
 
 Análisis exploratorio y estadístico de un conjunto de datos reales utilizando R y RStudio.
