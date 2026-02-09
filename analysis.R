@@ -337,3 +337,4 @@ print(comparacion)
 
 
 tinytex::install_tinytex()
+
